@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.color1{
+    color: rgb(16, 16, 71);
+}
+.color2{
+    color: rgb(228, 90, 49);
+}
+h1{
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(204, 89, 69),rgb(182, 56, 25));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 300;
+    
+}
+.half{
+    width: 42%;
+    float: left;
+    margin: 3%;
+    padding-left: 2%;
+}
+.half img{
+    width: 80%;
+}
+#buttom{
+    height: 500px;
+}
+#mid-font{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.box{
+   
+}
+.combine3{
+    width: 28%;
+    float: left;
+    margin-top: 100px;
+    margin: 1%;
+    box-shadow: 10px 10px 40px grey;
+    height: 300px;
+    
+}
+.combine3 img{
+    width: 90%;
+}
+#left{
+    margin-left: 6%;
+}
+#ok{
+    height: 500px;
+    width: 100%;
+}
